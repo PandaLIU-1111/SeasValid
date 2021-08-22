@@ -5,6 +5,9 @@
 
 namespace SeasVaild
 {
+
+    using namespace std;
+
     class validation
     {
     private:

@@ -5,4 +5,8 @@
 #include "config.h"
 #endif
 
+#include <cstdio>
+#include <iostream>
+#include <vector>
+
 #endif /* SEASVALID_H_ */
